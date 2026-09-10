@@ -1,0 +1,24 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+*.iml
+.idea/
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/key.properties
+*.jks
+
+# Backend secrets - NEVER commit these
+backend/.env
+backend/venv/
+backend/__pycache__/
+*.pyc
+
+
+# OS files
+.DS_Store
+Thumbs.db

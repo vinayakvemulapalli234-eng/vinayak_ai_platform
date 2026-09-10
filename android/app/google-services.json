@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "716195596549",
+    "project_id": "vinayak-ai",
+    "storage_bucket": "vinayak-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716195596549:android:1e8b51ff04c013b4170f6c",
+        "android_client_info": {
+          "package_name": "com.example.vinayak_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANR8vRIV-r8UjGMc8c2CjzlGKuLv0L0Ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
